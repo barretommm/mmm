@@ -9,3 +9,7 @@ h2.candid_title{font-size:17px; margin:5px 0 0 0 !important; color:#626262; font
 #candid-overlay div.item:hover {border:none;}
 #candid-overlay-link-items.candid-items3:not(.scroll-y) .candid-image-btn img {max-width: 130px;max-height: 130px;}
 div#candid_specific_widget{width: 410px;margin: 0 auto;}
+.main {
+    width: 1000px !important;
+    max-width: 100% !important;
+}

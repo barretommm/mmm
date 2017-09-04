@@ -9,3 +9,6 @@ ol.flex-control-nav.flex-control-paging li a.flex-active{background:#e98300!impo
 #candid-overlay-link-items.candid-items3:not(.scroll-y) .candid-image-btn img {max-width: 130px;max-height: 130px;}
 div#candid_specific_widget{width: 410px;margin: 0 auto;}
 #candid h2 span.compartilhe_candid {margin: -2px 0px 0px 8px !important;}
+@media only screen and (min-width:200px) and (max-width:700px){
+	div#candid_specific_widget{width: 300px !important;}
+}

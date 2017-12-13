@@ -15,5 +15,5 @@ div#candid_specific_widget{width: 410px;margin: 0 auto;}
 	.boxed-slider.flexslider .flex-direction-nav a.flex-prev{left: -30px;background: url(https://cdn.meumoveldemadeira.com.br/fotos-moveis/Image/mobile/header_footer_2017/candid_arrow.png)no-repeat center center #313131;opacity: 0.4;transform: rotate(180deg);width: 46px;height: 50px;}
 	a.flex-next {right: -30px !important;background: url(https://cdn.meumoveldemadeira.com.br/fotos-moveis/Image/mobile/header_footer_2017/candid_arrow.png)no-repeat center center #313131 !important;opacity: 0.4 !important;width: 46px !important;height: 50px !important;transform: rotate(0deg) !important;}
 	a.flex-prev:hover, a.flex-next:hover{opacity: 0.6 !important;}
-	body {padding: 0 20px !important;}
+	iframe body {padding: 0 20px !important;}
 }

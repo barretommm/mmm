@@ -10,6 +10,7 @@ ol.flex-control-nav.flex-control-paging li a.flex-active{background:#e98300!impo
 div#candid_specific_widget{width: 410px;margin: 0 auto;}
 #candid h2 span.compartilhe_candid {margin: -2px 0px 0px 8px !important;}
 #candid-overlay:hover div#overlay-profile-img-sub{visibility: visible !important;}
+li.flex-nav-prev a:before, li.flex-nav-next a:before {display: none;}
 @media only screen and (min-width:200px) and (max-width:700px){
 	div#candid_specific_widget{width: 300px !important;}
 	.boxed-slider.flexslider .flex-direction-nav a.flex-prev{left: -30px;background: url(https://cdn.meumoveldemadeira.com.br/fotos-moveis/Image/mobile/header_footer_2017/candid_arrow.png)no-repeat center center #313131;opacity: 0.4;transform: rotate(180deg);width: 46px;height: 50px;}
